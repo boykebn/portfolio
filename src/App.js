@@ -7,6 +7,7 @@ import About from './components/About';
 // import Services from './components/Services';
 import Work from './components/Work';
 import Contact from './components/Contact';
+// import ContactUs from './components/contactUs';
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <Work />
       <Contact />
       <div className='h-[500px]'></div>
+      {/* <ContactUs /> */}
     </div>
   );
 };
