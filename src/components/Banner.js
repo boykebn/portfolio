@@ -72,7 +72,7 @@ const Banner = () => {
                   className='cursor-pointer btn btn-lg flex items-center'>
                     Contact me
                 </Link>
-                <a href='#' className='text-gradient btn-link'>
+                <a href='https://myportfolio-boykebn.vercel.app/' className='text-gradient btn-link'>
                   My Portfolio
                 </a>
               </motion.div>
